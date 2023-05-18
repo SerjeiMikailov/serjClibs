@@ -1,7 +1,7 @@
 
 destination_dir="$(pwd)"
 
-git clone <URL_DO_REPOSITORIO> "$destination_dir/mylib"
+git clone <https://github.com/SerjeiMikailov/mathlib.git> "$destination_dir/mylib"
 
 cd "$destination_dir/mylib"
 
