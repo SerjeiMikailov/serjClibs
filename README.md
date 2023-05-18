@@ -19,7 +19,7 @@ With this ones in the same folder
 
 ![image](https://github.com/SerjeiMikailov/mathlib/assets/75023574/8eef3a29-23f7-43f0-8265-e99d68cd56fe)
 
-You can make your code 
+You can make your code (don't forget to #include "math.h")
 
 ![image](https://github.com/SerjeiMikailov/mathlib/assets/75023574/89061363-ac07-4e22-804b-0e97860f37c3)
 
