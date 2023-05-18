@@ -1,5 +1,6 @@
 #include "math.h"
 #include <time.h>
+#include <stdlib.h>
 
 // numbers
 int add(int x, int y)
