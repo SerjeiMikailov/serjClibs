@@ -7,4 +7,4 @@
  
  Or (if you don't use git for some reason)
  
-- svn export https://github.com/SerjeiMikailov/mathlib/trunk/serjlib
+- svn export https://github.com/SerjeiMikailov/mathlib/trunk/libs
