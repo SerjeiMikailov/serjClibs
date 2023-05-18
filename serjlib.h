@@ -8,3 +8,4 @@ int randomNumber();
 // letters
 char randomLetter();
 char* wordsGenerator(int size);
+void toUpperCase(char* str);

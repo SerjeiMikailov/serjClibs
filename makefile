@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall -Wextra
 
-SRCS = main.c math.c
+SRCS = main.c serjlib.c
 OBJS = $(patsubst %.c,output/%.o,$(SRCS))
 EXECUTABLE = output/program
 

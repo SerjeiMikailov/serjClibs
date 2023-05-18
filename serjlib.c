@@ -1,4 +1,4 @@
-#include "math.h"
+#include "serjlib.h"
 #include <time.h>
 #include <stdlib.h>
 
