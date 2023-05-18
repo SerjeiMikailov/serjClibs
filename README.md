@@ -1,4 +1,4 @@
-# Simple math library in C
+# Simple libs in C
 
 
 ### To install, run:
