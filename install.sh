@@ -1,9 +1,6 @@
-destination_dir="$(pwd)"
 
-git clone https://github.com/SerjeiMikailov/mathlib.git "$destination_dir/mylib"
+git clone https://github.com/SerjeiMikailov/mathlib.git
 
-chmod +x "$destination_dir/install.sh"
+cd mathlib
 
-"$destination_dir/mylib/install_mylib.sh"
-
-echo "A biblioteca mylib foi instalada com sucesso em $destination_dir/mylib"
+echo "A biblioteca mathlib foi instalada com sucesso."
