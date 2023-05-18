@@ -2,7 +2,7 @@ destination_dir="$(pwd)"
 
 git clone https://github.com/SerjeiMikailov/mathlib.git "$destination_dir/mylib"
 
-chmod +x "$destination_dir/mylib/install_mylib.sh"
+chmod +x "$destination_dir/install.sh"
 
 "$destination_dir/mylib/install_mylib.sh"
 
