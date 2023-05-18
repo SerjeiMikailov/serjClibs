@@ -3,7 +3,7 @@
 
 ### To install, run:
 
-- git clone https://github.com/SerjeiMikailov/mathlib.git
+- git clone https://github.com/SerjeiMikailov/serjClibs.git
  
 ### How to use: 
 
