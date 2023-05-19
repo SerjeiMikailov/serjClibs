@@ -5,7 +5,8 @@ int division(int x, int y);
 int multiply(int x, int y);
 int randomNumber();
 
-// letters
+// strings
 char randomLetter();
 char* wordsGenerator(int size);
 void toUpperCase(char* str);
+void toLowerCase(char* str);
