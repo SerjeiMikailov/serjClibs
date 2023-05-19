@@ -70,3 +70,8 @@ void toLowerCase(char* str) {
         i++;
     }
 }
+
+int roundNumber(float num) {
+    int rounded = (int)(num + 0.5);
+    return rounded;
+}
